@@ -4,6 +4,7 @@ using kudu api to ease the process of creating tables and generating random data
 Usage:
 
 Table create:
+
 KUDUMASTERHOST TABLENAME PRIMARYKEY COLUMNNAME TYPE COLUMNNAME TYPE
 
 Insert Into Table:
